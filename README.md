@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [NexCet](https://github.com/afadel151/Visio-/)
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Vue.Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/afadel151](https://github.com/afadel151)
 
