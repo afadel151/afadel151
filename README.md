@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akramfadel9" target="blank"><img src="https://img.shields.io/twitter/follow/akramfadel9?logo=twitter&style=for-the-badge" alt="akramfadel9" /></a> </p>
 
-- 🔭 I’m currently working on [ToroApp](https://github.com/afadel151/Earnmate-/)
+- 🔭 I’m currently working on [Earnmate](https://github.com/afadel151/Earnmate-/)
 
 - 🌱 I’m currently learning **Vue.Js**
 
