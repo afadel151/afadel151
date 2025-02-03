@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/afadel151](https://github.com/afadel151)
 
-- 💬 Ask me about **HTML** / **PHP** / **Laravel** / **Vue** / **Inertia** / **Tailwindcss** / **JavaScript** / **Linux** / **Nuxt.js** / **TypeScript** / **Docker** / **Prisma** / **MongoDB / **Supabase** / **Notion** / 
+- 💬 Ask me about **HTML** / **PHP** / **Laravel** / **Vue** / **Inertia** / **Tailwindcss** / **JavaScript** / **Linux** / **Nuxt.js** / **TypeScript** / **Docker** / **Prisma** / **MongoDB** / **Supabase** / **Notion** / 
 
 - 📫 How to reach me **af8356207@gmail.com**
 
