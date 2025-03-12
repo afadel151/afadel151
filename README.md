@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akramfadel9" target="blank"><img src="https://img.shields.io/twitter/follow/akramfadel9?logo=twitter&style=for-the-badge" alt="akramfadel9" /></a> </p>
 
-- 🔭 I’m currently working on [AstronomyClubWebsite](https://github.com/afadel151/AstronomyClubEMP/)
+- 🔭 I’m currently working on [AstronomyClubWebsite](https://github.com/afadel151/AstronomyClubEMP/) and [Job Application Nest/Nuxt/Prisma/Shadcn/Docker](https://github.com/afadel151/NestCourse)
 
 - 🌱 I’m currently learning **Nest.js**
 
