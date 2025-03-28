@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML** / **PHP** / **Laravel** / **Vue** / **Inertia** / **Tailwindcss** / **JavaScript** / **Linux** / **Nuxt.js** / **TypeScript** / **Docker** / **Prisma** / **MongoDB** / **Supabase** / **Notion** / **NestJs** / **MySQL** / **wsl2**
 
-- 📫 How to reach me **af8356207@gmail.com**
+- 📫 How to reach me **contact.akramfadel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
