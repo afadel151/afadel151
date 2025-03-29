@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AstronomyClubWebsite Nest/Prisma/MongoDB/Docker/React/Python](https://github.com/afadel151/AstronomyClubEMP/) , [Job Application Nest/Nuxt/Prisma/Shadcn/Docker](https://github.com/afadel151/NestCourse) and [TrafficSimulation Nuxt/Express/Supabase/Python/Sumo/Omnet++](https://github.com/afadel151/TrafficSimulation)
 
-- 🌱 I’m currently learning ***Nest.js*** and ***Go***
+- 🌱 I’m currently learning ***Nest.js*** and ***C#***
 
 - 👨‍💻 All of my projects are available at [https://github.com/afadel151](https://github.com/afadel151)
 
