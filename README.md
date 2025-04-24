@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afadel151" alt="afadel151" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/akramfadel9" target="blank"><img src="https://img.shields.io/twitter/follow/akramfadel9?logo=twitter&style=for-the-badge" alt="akramfadel9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fadelakr" target="blank"><img src="https://img.shields.io/twitter/follow/fadelakr?logo=twitter&style=for-the-badge" alt="fadelakr" /></a> </p>
 
-- 🔭 I’m currently working on [AstronomyClubWebsite Nest/Prisma/MongoDB/Docker/React/Python](https://github.com/afadel151/AstronomyClubEMP/) , [Job Application Nest/Nuxt/Prisma/Shadcn/Docker](https://github.com/afadel151/NestCourse) and [TrafficSimulation Nuxt/Express/Supabase/Python/Sumo/Omnet++](https://github.com/afadel151/TrafficSimulation)
+- 🔭 I’m currently working on [AstronomyClubWebsite Nest/Prisma/MongoDB/Docker/React/Python](https://github.com/afadel151/AstronomyClubEMP/)
 
 - 🌱 I’m currently learning ***Nest.js*** and ***C#***
 
