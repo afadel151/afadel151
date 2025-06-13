@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AI-VOICE-BIOMETRIC](https://github.com/afadel151/ai-voice-biometric/)
 
-- 🌱 I’m currently learning ***Nest.js*** and ***C#***
+- 🌱 I’m currently learning ***LangChain*** and ***Deep Learning***
 
 - 👨‍💻 All of my projects are available at [https://github.com/afadel151](https://github.com/afadel151)
 
