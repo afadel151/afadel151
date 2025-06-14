@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fadelakr" target="blank"><img src="https://img.shields.io/twitter/follow/fadelakr?logo=twitter&style=for-the-badge" alt="fadelakr" /></a> </p>
 
-- 🔭 I’m currently working on [AI-VOICE-BIOMETRIC](https://github.com/afadel151/ai-voice-biometric/)
+- 🔭 I’m currently working on [AI-STARTUP-IDEA-EVALUATOR](https://github.com/afadel151/ai-startup-idea-evaluator/)
 
 - 🌱 I’m currently learning ***LangChain*** and ***Deep Learning***
 
